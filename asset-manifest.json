@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/React-Pizaa-app/static/css/main.31d6cfe0.css",
+    "main.js": "/React-Pizaa-app/static/js/main.7f2e4b25.js",
+    "index.html": "/React-Pizaa-app/index.html",
+    "main.7f2e4b25.js.map": "/React-Pizaa-app/static/js/main.7f2e4b25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.7f2e4b25.js"
+  ]
+}

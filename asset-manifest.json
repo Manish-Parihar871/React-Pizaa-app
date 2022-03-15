@@ -1,12 +1,14 @@
 {
   "files": {
     "main.css": "/React-Pizaa-app/static/css/main.31d6cfe0.css",
-    "main.js": "/React-Pizaa-app/static/js/main.7f2e4b25.js",
+    "main.js": "/React-Pizaa-app/static/js/main.360a58d2.js",
+    "static/media/pizza.png": "/React-Pizaa-app/static/media/pizza.80b3d1dbd8a2c9f0567b.png",
+    "static/media/empty-cart.png": "/React-Pizaa-app/static/media/empty-cart.621445dd735630479079.png",
     "index.html": "/React-Pizaa-app/index.html",
-    "main.7f2e4b25.js.map": "/React-Pizaa-app/static/js/main.7f2e4b25.js.map"
+    "main.360a58d2.js.map": "/React-Pizaa-app/static/js/main.360a58d2.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.7f2e4b25.js"
+    "static/js/main.360a58d2.js"
   ]
 }
